@@ -47,18 +47,17 @@
 ---
 
 ## 📌 **Mes Projets**
-📂 *Vous trouverez ci-joint dans mes dépôts GitHub une sélection de mes projets.*  
+📂 **Vous trouverez ci-joint une sélection de projets illustrant mes compétences techniques et mon expérience, disponibles dans ce dépôt GitHub.**  
 
 ---
 
 ## 📫 **Contact & Réseaux**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molka-zahra-9433472a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MolkaZahra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](molka.zahra@esprit.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/molka-zahra-9433472a0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](molkazahra@gmail.com)
 
 
-> 🚀 "Transforming Data into Knowledge, and Knowledge into Action!"
+> 🚀 **"Transforming Data into Knowledge, and Knowledge into Action !"**
 
 ---
 
-⭐️ **N'hésite pas à explorer mes projets et à collaborer avec moi !**  
+⭐️ **N’hésitez pas à découvrir mes projets et à collaborer avec moi.**  
