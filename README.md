@@ -3,7 +3,7 @@
 ![Gif de développeur](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejViaHhwbzVqbHQzb3hucHJxbGpkNG1rMjN3ZXBnbGg3c2k3d2tjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 🌍 **Bienvenue sur mon GitHub !**  
-Je suis une ingénieure en Data Science passionnée par l'intelligence artificielle, le Machine Learning, le Deep Learning et l'analyse des données. Toujours en quête d'innovation, je développe des solutions intelligentes et travaille sur divers projets liés à la **science des données**.
+**Ingénieure en informatique**, je possède un fort intérêt pour les technologies de l’information et les systèmes intelligents. Rigoureuse et orientée vers l’innovation, je conçois et développe des solutions informatiques robustes, en participant à des projets variés incluant le développement logiciel, l’analyse des données et l’intelligence artificielle.
 
 ---
 
