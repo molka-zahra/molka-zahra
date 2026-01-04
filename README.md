@@ -1,4 +1,4 @@
-# 💻 Molka Zahra - Junior Data Science Engineer 
+# 💻 Molka Zahra - Ingénieure en informatique 
 
 ![Gif de développeur](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejViaHhwbzVqbHQzb3hucHJxbGpkNG1rMjN3ZXBnbGg3c2k3d2tjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
@@ -7,13 +7,42 @@
 
 ---
 
-## 🚀 **Compétences**
-- 📊 **Data Science & Machine Learning** : Python, Scikit-learn, TensorFlow, PyTorch  
-- 💾 **Bases de données** : SQL, MySQL  
-- ☁️ **Cloud & DevOps** : Docker, CI/CD avec Jenkins  
-- 🌐 **Développement Web** : Flask, Streamlit, Django  
-- 📈 **Analyse & Visualisation des données** : Pandas, Matplotlib, Seaborn, Power BI  
-- 🛠️ **Outils** : Git, Jupyter Notebook, Linux, LaTeX  
+## 🚀 Compétences
+
+### 💻 Langages de programmation
+- C, C++, Python, Java  
+- HTML, CSS, PHP  
+
+### 🗄️ Langages de requêtes & Bases de données
+- SQL  
+- MySQL, Oracle Database, Microsoft SQL Server  
+
+### 🌐 Frameworks & Bibliothèques
+- Django, Flask, Streamlit  
+- .NET, Symfony  
+
+### 🔄 Traitement & Intégration des données
+- ETL (Extract, Transform, Load)  
+
+### 🤖 Intelligence Artificielle & Analyse Prédictive
+- Machine Learning  
+- Deep Learning  
+
+### ⚙️ DevOps
+- Jenkins  
+- Nexus  
+
+### 📊 Visualisation des données
+- Power BI  
+
+### 📐 Méthodologies
+- CRISP-DM  
+- Agile  
+
+### 🛠️ Outils de gestion de versions & de projets
+- Git, GitHub  
+- Trello  
+
 
 ---
 
