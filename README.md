@@ -56,7 +56,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](molkazahra@gmail.com)
 
 
-> 🚀 **"Transforming Data into Knowledge, and Knowledge into Action !"**
+> 🚀 **" Transforming Data into Knowledge, and Knowledge into Action ! "**
 
 ---
 
