@@ -52,8 +52,8 @@
 ---
 
 ## 📫 **Contact & Réseaux**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/molka-zahra-9433472a0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](molkazahra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molka-zahra-9433472a0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molkazahra@gmail.com)
 
 
 > 🚀 **" Transforming Data into Knowledge, and Knowledge into Action ! "**
